@@ -1,0 +1,10 @@
+ Apple-Cider-Vinegar x1     Rs. 100
+ KitKat x1     Rs. 30
+ Total Price = Rs. 130
+ Rice-Cracker x1     Rs. 10
+ Total Price = Rs. 10
+
+ Kurkure x1     Rs. 20
+ Lays x1     Rs. 20
+ Total Price = Rs. 40
+
